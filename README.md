@@ -20,6 +20,8 @@ $ go test
 3. results
 
 ![](readme/go_test_demo_1.png)
+![](readme/green_api_actions_1.png)
+![](readme/green_api_actions_2.png)
 
 ## Tests overview
 
